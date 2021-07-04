@@ -13,11 +13,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 💻 &nbsp; Python | TypeScript | Java | JavaScript | Dart
+- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; SQLite | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🖥 &nbsp; Figma | Inkscape | Gimp | Blender | UPBGE |
 
 <br>
 
@@ -28,6 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlystorres)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -35,7 +36,7 @@
 <p align="center">
 &nbsp; <a href="https://twitter.com/torrescharlys" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/charlysbrowntorres/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/charlys-torres-67505a149/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:charlysbrowntorres@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
